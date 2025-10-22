@@ -58,12 +58,21 @@
   <!-- Row: Blockchain -->
   <p><b>Blockchain</b></p>
   <table>
-    <tr>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=solidity"  width="48" height="48" alt="Solidity"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=ethers"    width="48" height="48" alt="Ethers.js"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=hardhat"   width="48" height="48" alt="Hardhat"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=metamask"  width="48" height="48" alt="MetaMask"/></td>
-    </tr>
+  <tr>
+  <td align="center" style="padding:8px">
+    <img src="https://skillicons.dev/icons?i=solidity&theme=dark&v=1" width="48" height="48" alt="Solidity"/>
+  </td>
+  <td align="center" style="padding:8px">
+    <img src="https://skillicons.dev/icons?i=ethersjs&theme=dark&v=1" width="48" height="48" alt="Ethers.js"/>
+  </td>
+  <td align="center" style="padding:8px">
+    <img src="https://skillicons.dev/icons?i=hardhat&theme=dark&v=1" width="48" height="48" alt="Hardhat"/>
+  </td>
+  <td align="center" style="padding:8px">
+    <img src="https://skillicons.dev/icons?i=metamask&theme=dark&v=1" width="48" height="48" alt="MetaMask"/>
+  </td>
+</tr>
+
   </table>
 
   <!-- Row: Frontend & Backend -->
@@ -108,8 +117,6 @@
   <h3>📊 GitHub Stats</h3>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoanna&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoanna&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-  <br/>
-  <img height="165" src="https://streak-stats.demolab.com?user=khoanna&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <hr/>
