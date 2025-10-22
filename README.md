@@ -47,11 +47,68 @@
 </div>
 
 ---
-
-<!-- ================== TECH STACK ================== -->
+<!-- ================== TECH STACK (UNIFORM GRID) ================== -->
 <div align="center">
   <h3>🧰 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,foundry,ts,js,nodejs,express,react,nextjs,tailwind,postgres,mysql,mongodb,git,github&perline=8" />
+
+  <table>
+    <tr>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=hardhat" width="48" height="48" alt="Hardhat"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=foundry" width="48" height="48" alt="Foundry"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      </td>
+      <td align="center" style="padding:8px">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
