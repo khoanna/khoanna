@@ -15,8 +15,9 @@
 ###
 
 <!-- optional fun gif (can remove if you prefer a cleaner look) -->
-<img align="right" height="150" src="http://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Ethereum neon animation" />
-
+<img align="right" height="150"
+     src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"
+     alt="Ethereum neon animation" />
 ###
 
 <!-- Tech icons (prioritize Web3 + fullstack; only icons that render reliably) -->
