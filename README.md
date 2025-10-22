@@ -14,11 +14,6 @@
 
 ###
 
-<!-- optional fun gif (can remove if you prefer a cleaner look) -->
-<img align="right" height="150" src="https://i.imgur.com/2RMKQ0n.gif"  />
-
-###
-
 <!-- Tech icons (prioritize Web3 + fullstack; only icons that render reliably) -->
 <div align="left">
   <!-- Web3 / Blockchain -->
