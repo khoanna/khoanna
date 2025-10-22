@@ -57,18 +57,7 @@
   <h3>🧰 Tech Stack</h3>
 
   <!-- Row: Blockchain -->
-  <p><sub><b>Blockchain</b></sub></p>
-  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
-    <!-- skillicons -->
-    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
-    <!-- simpleicons styled as dark tiles -->
-    <img src="https://cdn.simpleicons.org/ethers/FFFFFF"    alt="Ethers.js"
-         style="width:36px;height:36px;background:#0b1221;border-radius:12px;padding:6px"/>
-    <img src="https://cdn.simpleicons.org/hardhat/FFFFFF"   alt="Hardhat"
-         style="width:36px;height:36px;background:#0b1221;border-radius:12px;padding:6px"/>
-    <img src="https://cdn.simpleicons.org/metamask/FFFFFF"  alt="MetaMask"
-         style="width:36px;height:36px;background:#0b1221;border-radius:12px;padding:6px"/>
-  </div>
+
 
   <!-- Row: Frontend & Backend -->
   <p><sub><b>Frontend & Backend</b></sub></p>
@@ -80,7 +69,12 @@
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
     <img src="https://skillicons.dev/icons?i=tailwind"width="48" height="48" alt="TailwindCSS"/>
   </div>
-
+  
+  <p><sub><b>Blockchain</b></sub></p>
+  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
+    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
+  </div>
+  
   <!-- Row: Databases & Tools -->
   <p><sub><b>Databases & Tools</b></sub></p>
   <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
