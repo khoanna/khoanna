@@ -58,11 +58,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind"width="48" height="48" alt="TailwindCSS"/>
   </div>
   
-  <p><sub><b>Blockchain</b></sub></p>
-  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
-    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
-  </div>
-  
   <!-- Row: Databases & Tools -->
   <p><sub><b>Databases & Tools</b></sub></p>
   <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
@@ -74,6 +69,11 @@
     <img src="https://skillicons.dev/icons?i=docker"   width="48" height="48" alt="Docker"/>
   </div>
 </div>
+
+  <p><sub><b>Blockchain</b></sub></p>
+  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
+    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
+  </div>
 
 <hr/>
 
