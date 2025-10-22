@@ -58,20 +58,37 @@
   <!-- Row: Blockchain -->
   <p><b>Blockchain</b></p>
   <table>
-  <tr>
+<tr>
+  <!-- Solidity (skillicons có sẵn) -->
   <td align="center" style="padding:8px">
-    <img src="https://skillicons.dev/icons?i=solidity&theme=dark&v=1" width="48" height="48" alt="Solidity"/>
+    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
   </td>
+
+  <!-- Ethers.js (Simple Icons) -->
   <td align="center" style="padding:8px">
-    <img src="https://skillicons.dev/icons?i=ethersjs&theme=dark&v=1" width="48" height="48" alt="Ethers.js"/>
+    <img src="https://cdn.simpleicons.org/ethers/FFFFFF"
+         alt="Ethers.js"
+         width="36"
+         style="background:#0b1221;border-radius:12px;padding:6px;"/>
   </td>
+
+  <!-- Hardhat (Simple Icons) -->
   <td align="center" style="padding:8px">
-    <img src="https://skillicons.dev/icons?i=hardhat&theme=dark&v=1" width="48" height="48" alt="Hardhat"/>
+    <img src="https://cdn.simpleicons.org/hardhat/FFFFFF"
+         alt="Hardhat"
+         width="36"
+         style="background:#0b1221;border-radius:12px;padding:6px;"/>
   </td>
+
+  <!-- MetaMask (Simple Icons) -->
   <td align="center" style="padding:8px">
-    <img src="https://skillicons.dev/icons?i=metamask&theme=dark&v=1" width="48" height="48" alt="MetaMask"/>
+    <img src="https://cdn.simpleicons.org/metamask/FFFFFF"
+         alt="MetaMask"
+         width="36"
+         style="background:#0b1221;border-radius:12px;padding:6px;"/>
   </td>
 </tr>
+
 
   </table>
 
