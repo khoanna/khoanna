@@ -25,18 +25,6 @@
   </a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-I'm a **Blockchain & Web3 Developer** with a foundation in **fullstack engineering** and strong passion for **decentralized technologies**.  
-I love building scalable, secure, and user-focused products — from smart contracts to production-ready frontends.
-
-- 🪙 Focus areas: **DeFi**, **on-chain governance**, **AI integration**, **loyalty & stablecoin payments**  
-- 💻 Passionate about clean architecture, security, and developer experience  
-- 🌱 Always learning new technologies and contributing to open-source communities  
-- 🤝 Open for freelance, part-time or global agency collaborations
-
----
 
 ## 🧰 Tech Stack
 
@@ -61,14 +49,6 @@ I love building scalable, secure, and user-focused products — from smart contr
 </p>
 
 ---
-
-## 🏆 Achievements
-- 🥇 **Top 8 SEA Ideathon 2025** — *VinaSwap Project*  
-  → Fullstack Developer for a DeFi protocol enabling token swaps, lending, staking and on-chain governance.
-
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoanna&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoanna&layout=compact&theme=transparent&langs_count=8" alt="Top Languages" />
@@ -79,13 +59,10 @@ I love building scalable, secure, and user-focused products — from smart contr
 </p>
 
 ---
-
-## 🌐 Connect With Me
-<p>
+<p align="center">
   <a href="mailto:khoa210105@gmail.com"><img src="https://img.shields.io/badge/Gmail-khoa210105%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Khoa%20Nguyen-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/AnhKhoaS" target="_blank"><img src="https://img.shields.io/badge/Facebook-AnhKhoaS-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/khoanna" target="_blank"><img src="https://img.shields.io/badge/GitHub-@khoanna-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
