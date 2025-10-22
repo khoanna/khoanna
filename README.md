@@ -1,4 +1,4 @@
-<h2 align="left">Blockchain Developer from Viet Nam.</h2>
+<h2 align="left">Web3 Developer from Viet Nam.</h2>
 
 <!-- Profile views (antonkomarev) -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
