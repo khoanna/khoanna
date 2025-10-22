@@ -2,9 +2,8 @@
 <div align="center">
 
   <h1>Nguyen Ngoc Anh Khoa</h1>
-  <p><b>Blockchain Developer · Web3 Engineer</b></p>
+  <p><b>Blockchain Developer</b></p>
 
-  <!-- Profile views (antonkomarev) -->
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=khoanna&label=👁%20Profile%20views&color=0b1221&style=flat-square" alt="profile views"/>
   </a>
@@ -21,14 +20,6 @@
     Open to diverse technical challenges across industries, with a passion for continuous learning and innovation.
   </p>
 </div>
-
-<!-- ===== Highlights (quick trust signals) ===== -->
-<div align="center">
-  <sub>
-    • Web3 | DeFi | Smart Contracts • Clean Architecture • Security-minded • Open for freelance/remote
-  </sub>
-</div>
-
 <hr/>
 
 <!-- ================== CONNECT ================== -->
@@ -43,9 +34,6 @@
   </a>
   <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khoa%20Nguyen-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://facebook.com/AnhKhoaS" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-AnhKhoaS-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </div>
 
@@ -87,7 +75,6 @@
   </div>
 </div>
 
-
 <hr/>
 
 
@@ -97,8 +84,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=khoanna&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoanna&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </div>
-
 <hr/>
-
-<!-- ================== FOOTER ================== -->
-<p align="center"><i>“Build useful things. Ship fast. Stay kind.”</i></p>
