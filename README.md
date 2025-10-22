@@ -102,44 +102,6 @@
 
 <hr/>
 
-<!-- ================== FEATURED PROJECTS ================== -->
-<div align="center">
-  <h3>🚀 Featured Projects</h3>
-</div>
-
-<!-- Project Card -->
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🔐 X-Guardian</h4>
-      <p>Security dashboard for wallet reputation, scam detection & multi-chain monitoring with AI agent.</p>
-      <sub><b>Stack:</b> React · Node.js · Solidity</sub><br/>
-      <a href="https://x-guardian.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Demo-0b1221?style=flat&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💱 VinaSwap</h4>
-      <p>DeFi DApp: AMM swaps, LP staking, lending vaults & on-chain governance.</p>
-      <sub><b>Stack:</b> React · Ethers · Solidity · Express</sub><br/>
-      <a href="https://vinaswap.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Demo-0b1221?style=flat&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 Twitter AI Agent</h4>
-      <p>Automation agent for real-time Twitter interactions with scraping + Gemini-powered replies.</p>
-      <sub><b>Stack:</b> Node.js · Scraper · Gemini API</sub><br/>
-      <a href="https://github.com/khoanna/twitter-ai-agent" target="_blank"><img src="https://img.shields.io/badge/Source-111827?style=flat&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<!-- ================== ACHIEVEMENT ================== -->
-<div align="center">
-  <h3>🏆 Achievement</h3>
-  <p><b>Top 8 SEA Ideathon 2025 — VinaSwap Project</b></p>
-</div>
-
-<hr/>
 
 <!-- ================== GITHUB STATS ================== -->
 <div align="center">
