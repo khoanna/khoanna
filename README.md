@@ -52,79 +52,47 @@
 <hr/>
 
 <!-- ================== TECH STACK (CLEAN 4×4 GRID) ================== -->
+<!-- ================== TECH STACK (MODERN, EVEN ROWS) ================== -->
 <div align="center">
   <h3>🧰 Tech Stack</h3>
 
   <!-- Row: Blockchain -->
-  <p><b>Blockchain</b></p>
-  <table>
-<tr>
-  <!-- Solidity (skillicons có sẵn) -->
-  <td align="center" style="padding:8px">
+  <p><sub><b>Blockchain</b></sub></p>
+  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
+    <!-- skillicons -->
     <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity"/>
-  </td>
-
-  <!-- Ethers.js (Simple Icons) -->
-  <td align="center" style="padding:8px">
-    <img src="https://cdn.simpleicons.org/ethers/FFFFFF"
-         alt="Ethers.js"
-         width="36"
-         style="background:#0b1221;border-radius:12px;padding:6px;"/>
-  </td>
-
-  <!-- Hardhat (Simple Icons) -->
-  <td align="center" style="padding:8px">
-    <img src="https://cdn.simpleicons.org/hardhat/FFFFFF"
-         alt="Hardhat"
-         width="36"
-         style="background:#0b1221;border-radius:12px;padding:6px;"/>
-  </td>
-
-  <!-- MetaMask (Simple Icons) -->
-  <td align="center" style="padding:8px">
-    <img src="https://cdn.simpleicons.org/metamask/FFFFFF"
-         alt="MetaMask"
-         width="36"
-         style="background:#0b1221;border-radius:12px;padding:6px;"/>
-  </td>
-</tr>
-
-
-  </table>
+    <!-- simpleicons styled as dark tiles -->
+    <img src="https://cdn.simpleicons.org/ethers/FFFFFF"    alt="Ethers.js"
+         style="width:36px;height:36px;background:#0b1221;border-radius:12px;padding:6px"/>
+    <img src="https://cdn.simpleicons.org/hardhat/FFFFFF"   alt="Hardhat"
+         style="width:36px;height:36px;background:#0b1221;border-radius:12px;padding:6px"/>
+    <img src="https://cdn.simpleicons.org/metamask/FFFFFF"  alt="MetaMask"
+         style="width:36px;height:36px;background:#0b1221;border-radius:12px;padding:6px"/>
+  </div>
 
   <!-- Row: Frontend & Backend -->
-  <p><b>Frontend & Backend</b></p>
-  <table>
-    <tr>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=react"   width="48" height="48" alt="React"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=nextjs"  width="48" height="48" alt="Next.js"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=ts"      width="48" height="48" alt="TypeScript"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=nodejs"  width="48" height="48" alt="Node.js"/></td>
-    </tr>
-  </table>
-
-  <!-- Row: UI & Frameworks -->
-  <p><b>UI & Frameworks</b></p>
-  <table>
-    <tr>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=express"  width="48" height="48" alt="Express"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=docker"   width="48" height="48" alt="Docker"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=nginx"    width="48" height="48" alt="Nginx"/></td>
-    </tr>
-  </table>
+  <p><sub><b>Frontend & Backend</b></sub></p>
+  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
+    <img src="https://skillicons.dev/icons?i=react"   width="48" height="48" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=nextjs"  width="48" height="48" alt="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=ts"      width="48" height="48" alt="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=nodejs"  width="48" height="48" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
+    <img src="https://skillicons.dev/icons?i=tailwind"width="48" height="48" alt="TailwindCSS"/>
+  </div>
 
   <!-- Row: Databases & Tools -->
-  <p><b>Databases & Tools</b></p>
-  <table>
-    <tr>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=mysql"    width="48" height="48" alt="MySQL"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=mongodb"  width="48" height="48" alt="MongoDB"/></td>
-      <td align="center" style="padding:8px"><img src="https://skillicons.dev/icons?i=git"      width="48" height="48" alt="Git"/></td>
-    </tr>
-  </table>
+  <p><sub><b>Databases & Tools</b></sub></p>
+  <div style="display:inline-flex;gap:14px;flex-wrap:wrap;justify-content:center;align-items:center">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql"    width="48" height="48" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mongodb"  width="48" height="48" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=git"      width="48" height="48" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=nginx"    width="48" height="48" alt="Nginx"/>
+    <img src="https://skillicons.dev/icons?i=docker"   width="48" height="48" alt="Docker"/>
+  </div>
 </div>
+
 
 <hr/>
 
