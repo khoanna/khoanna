@@ -24,10 +24,6 @@
   <!-- Web3 / Blockchain -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/hardhat/fff" height="30" alt="hardhat logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ethereum/fff" height="30" alt="ethereum logo" />
-  <img width="12" />
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
@@ -82,6 +78,4 @@
 ###
 
 <br clear="both">
-
-<!-- Fun snake (optional) -->
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
