@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nguyen Ngoc Anh Khoa and I'm a Blockchain Developer · Web3 Engineer, from Viet Nam.</h2>
+<h2 align="left">Blockchain Developer from Viet Nam.</h2>
 
 <!-- Profile views (antonkomarev) -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -15,7 +15,7 @@
 ###
 
 <!-- optional fun gif (can remove if you prefer a cleaner look) -->
-<img align="right" height="150" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Ethereum neon animation" />
+<img align="right" height="150" src="http://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Ethereum neon animation" />
 
 ###
 
