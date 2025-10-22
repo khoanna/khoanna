@@ -15,9 +15,8 @@
 ###
 
 <!-- optional fun gif (can remove if you prefer a cleaner look) -->
-<img align="right" height="150"
-     src="https://raw.githubusercontent.com/khoanna/khoanna/gif.gif"
-     alt="Ethereum neon animation" />
+<img align="right" height="150" src="./gif.gif" alt="Ethereum neon animation" />
+
 ###
 
 <!-- Tech icons (prioritize Web3 + fullstack; only icons that render reliably) -->
