@@ -15,7 +15,7 @@
 ###
 
 <!-- optional fun gif (can remove if you prefer a cleaner look) -->
-<img align="right" height="150" src="https://i.imgur.com/2RMKQ0n.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Ethereum neon animation" />
 
 ###
 
