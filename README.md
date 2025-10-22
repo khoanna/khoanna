@@ -64,38 +64,7 @@ I love building scalable, secure, and user-focused products — from smart contr
 
 ## 🏆 Achievements
 - 🥇 **Top 8 SEA Ideathon 2025** — *VinaSwap Project*  
-  → Fullstack Developer for a DeFi protocol enabling token swaps, lending, staking & on-chain governance.
-
----
-
-## 🚀 Highlight Projects
-
-### 🔐 [X-Guardian](https://x-guardian.vercel.app)
-A blockchain security dashboard enabling **wallet reputation analysis**, **scam detection**, and **multi-chain transaction monitoring** with AI agents.
-
-- 🧠 Trust Labeling System using community voting  
-- 🤖 AI Assistant for natural language wallet queries (IO.NET API)  
-- 📨 Real-time alerting & webhook integration  
-- 🪙 Full-stack DApp (ReactJS, Solidity, Node.js)
-
----
-
-### 🐦 [Twitter AI Agent](https://github.com/khoanna/twitter-ai-agent)
-An **AI-powered automation agent** for Twitter, enabling real-time interaction & content generation.
-
-- ⚡ Web scraping & session persistence  
-- 🧠 Integrated Gemini API for AI replies  
-- 🛠 CLI job scheduling for hashtag & user streams
-
----
-
-### 💱 [VinaSwap](https://vinaswap.vercel.app)
-A **DeFi DApp** with token swaps, LP staking, DAO voting, and lending protocols.
-
-- 🧮 Constant product AMM with slippage protection  
-- 🏦 Staking pools & lending vaults with APY logic  
-- 🗳 DAO governance module with delegation & quorum  
-- 🧠 Chainlink oracles + Coingecko integration
+  → Fullstack Developer for a DeFi protocol enabling token swaps, lending, staking and on-chain governance.
 
 ---
 
@@ -120,12 +89,3 @@ A **DeFi DApp** with token swaps, LP staking, DAO voting, and lending protocols.
 </p>
 
 ---
-
-### 🧭 Quick Links
-- 🌍 Portfolio: [khoanguyendev.vercel.app](https://khoanguyendev.vercel.app)
-- 🪪 Resume/CV: Available upon request
-- 💼 Available for: Freelance • Part-time • Remote roles
-
----
-
-> _“Build fast. Ship often. Empower users.”_
