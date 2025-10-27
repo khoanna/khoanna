@@ -60,16 +60,16 @@
 <!-- Contact & Links -->
 <div align="left">
   <a href="mailto:khoa210105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=khoa210105%40gmail.com&color=0B1221&logoColor=white&labelColor=0B1221&style=for-the-badge" height="35" alt="gmail badge" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=0B1221&logoColor=white&labelColor=0B1221&style=for-the-badge" height="35" alt="gmail badge" />
   </a>
   <a href="https://khoanguyendev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=khoanguyendev.vercel.app&color=111827&logoColor=white&labelColor=111827&style=for-the-badge" height="35" alt="portfolio badge" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=111827&logoColor=white&labelColor=111827&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
   <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Khoa%20Nguyen&color=0A66C2&logoColor=white&labelColor=0A66C2&style=for-the-badge" height="35" alt="linkedin badge" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&labelColor=0A66C2&style=for-the-badge" height="35" alt="linkedin badge" />
   </a>
   <a href="https://facebook.com/AnhKhoaS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=AnhKhoaS&color=0b1221&logoColor=white&labelColor=0b1221&style=for-the-badge" height="35" alt="facebook badge" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=0b1221&logoColor=white&labelColor=0b1221&style=for-the-badge" height="35" alt="facebook badge" />
   </a>
 </div>
 
