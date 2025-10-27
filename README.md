@@ -59,7 +59,7 @@
 
 <!-- Contact & Links -->
 <div align="left">
-  <a href="mailto:khoa210105@gmail.com">
+  <a href="mailto:khoa210105@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=khoa210105%40gmail.com&color=0B1221&logoColor=white&labelColor=0B1221&style=for-the-badge" height="35" alt="gmail badge" />
   </a>
   <a href="https://khoanguyendev.vercel.app" target="_blank">
