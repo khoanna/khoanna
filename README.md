@@ -59,19 +59,20 @@
 
 <!-- Contact & Links -->
 <div align="left">
-  <a href="mailto:khoa210105@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=0B1221&logoColor=white&labelColor=0B1221&style=for-the-badge" height="35" alt="gmail badge" />
+  <a href="mailto:khoa210105@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-?style=social&logo=gmail" />
   </a>
-  <a href="https://khoanguyendev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=111827&logoColor=white&labelColor=111827&style=for-the-badge" height="35" alt="portfolio badge" />
+  <a href="https://khoanguyendev.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-?style=social&logo=vercel" />
   </a>
-  <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&labelColor=0A66C2&style=for-the-badge" height="35" alt="linkedin badge" />
+  <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-?style=social&logo=linkedin" />
   </a>
-  <a href="https://facebook.com/AnhKhoaS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=0b1221&logoColor=white&labelColor=0b1221&style=for-the-badge" height="35" alt="facebook badge" />
+  <a href="https://facebook.com/AnhKhoaS" target="_blank" rel="noopener noreferrer">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-?style=social&logo=facebook" />
   </a>
 </div>
+
 
 ###
 
