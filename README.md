@@ -59,19 +59,24 @@
 
 <!-- Contact & Links -->
 <div align="left">
-  <a href="mailto:khoa210105@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-?style=social&logo=gmail" />
+  <a href="mailto:khoa210105@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
+    <img alt="Email"
+      src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=0B1221&labelColor=0B1221&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://khoanguyendev.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-?style=social&logo=vercel" />
+  <a href="https://khoanguyendev.vercel.app" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
+    <img alt="Portfolio"
+      src="https://img.shields.io/static/v1?label=&message=Portfolio&logo=vercel&color=111827&labelColor=111827&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-?style=social&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img alt="LinkedIn"
+      src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0A66C2&labelColor=0A66C2&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://facebook.com/AnhKhoaS" target="_blank" rel="noopener noreferrer">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-?style=social&logo=facebook" />
+  <a href="https://facebook.com/AnhKhoaS" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+    <img alt="Facebook"
+      src="https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook&color=0B1221&labelColor=0B1221&logoColor=white&style=for-the-badge" />
   </a>
 </div>
+
 
 
 ###
