@@ -1,4 +1,4 @@
-<h2 align="left">Web3 Developer from Viet Nam</h2>
+<h2 align="center">Web3 Developer from Viet Nam</h2>
 
 <!-- Profile views (antonkomarev) -->
 <div align="center">
