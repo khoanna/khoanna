@@ -67,7 +67,7 @@
     <img alt="Portfolio"
       src="https://img.shields.io/static/v1?label=&message=Portfolio&logo=vercel&color=111827&labelColor=111827&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/khoa-nguyen-95114a287/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/khoanna/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
     <img alt="LinkedIn"
       src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0A66C2&labelColor=0A66C2&logoColor=white&style=for-the-badge" />
   </a>
