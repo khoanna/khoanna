@@ -2,7 +2,7 @@
 
 <!-- Profile views (antonkomarev) -->
 <a align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=khoanna&label=Profile%20views&color=0b1221&style=flat-square" alt="profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=khoanna&label=Profile%20views&color=0b1221&style=flat-square" alt="profile views" />
 </a>
 
 ###
