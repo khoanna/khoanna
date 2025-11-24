@@ -10,18 +10,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khoanna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoanna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" height="150" src="./gif.gif" alt="Ethereum neon animation" />
 </div>
 
 ###
 
-<!-- optional fun gif (can remove if you prefer a cleaner look) -->
-<img align="right" height="150" src="./gif.gif" alt="Ethereum neon animation" />
 
 ###
 
 <!-- Tech icons (prioritize Web3 + fullstack; only icons that render reliably) -->
-<div align="left">
+<div align="center">
   <!-- Web3 / Blockchain -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo" />
   <img width="12" />
@@ -54,7 +53,7 @@
 ###
 
 <!-- Contact & Links -->
-<div align="left">
+<div align="center">
   <a href="mailto:khoa210105@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
     <img alt="Email"
       src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=0B1221&labelColor=0B1221&logoColor=white&style=for-the-badge" />
