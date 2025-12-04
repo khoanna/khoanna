@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoanna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats-khoanna.vercel.app/api/top-langs?username=khoanna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="center" height="150" src="./gif.gif" alt="Ethereum neon animation" />
 </div>
 
