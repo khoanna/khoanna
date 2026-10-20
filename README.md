@@ -24,8 +24,7 @@
   <!-- Web3 / Blockchain -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/MystenLabs/sui@main/docs/site/static/img/logo.svg" height="30" alt="solidity logo" />
-  <img width="12" />
+
   
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
